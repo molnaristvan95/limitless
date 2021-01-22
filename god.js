@@ -1,1 +1,2 @@
 //noprotect
+console.log('asd');
