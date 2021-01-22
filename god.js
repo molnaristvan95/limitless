@@ -40,3 +40,5 @@ function slideDownOnceEngine(elem, start, finish, funcId, px) {
     document.getElementById(elem).style.height = logOb['up' + funcId] + 'px';
   }
 }
+
+//example: slideDownOnce('downP', 1, 1, 'auto', 2000, 0.5, 1.5);
